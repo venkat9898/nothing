@@ -3,11 +3,15 @@ package org.sample;
 public class First {
 	public void fire() {
 		System.out.println("fire");
-		}
-		public void ice() {
+	}
+
+	public void attack() {
 		System.out.println("ice");
-		}
-		public void water() {
+	}
+
+	public void war() {
 		System.out.println("waters");
-		}
+	}
+
+	
 }
