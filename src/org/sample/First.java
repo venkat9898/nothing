@@ -1,7 +1,7 @@
 package org.sample;
 
 public class First {
-	public void fire() {
+	public void hot() {
 		System.out.println("fire");
 		}
 		public void ice() {
